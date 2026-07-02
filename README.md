@@ -109,10 +109,10 @@ npm run dev
 ![Login Page](screenshots/loginpage.png)
 
 ### 📝 Registration Page
-![Registration Page](screenshots/registration page.png)
+![Registration Page](screenshots/registrationpage.png)
 
 ### 📋 Registration List
-![Registration List](screenshots/registration list.png)
+![Registration List](screenshots/registrationlist.png)
 
 ### 🎫 Ticket Page
 ![Ticket Page](screenshots/tickets.png)
