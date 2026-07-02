@@ -102,7 +102,29 @@ npm run dev
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/loginpage.png)
+
+### 📝 Registration Page
+![Registration Page](screenshots/registration page.png)
+
+### 📋 Registration List
+![Registration List](screenshots/registration list.png)
+
+### 🎫 Ticket Page
+![Ticket Page](screenshots/tickets.png)
+
+### 📱 QR Code Page
+![QR Code Page](screenshots/Qrcodepage.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### ℹ️ About Page
+![About Page](screenshots/about.png.png)
 
 ---
 
