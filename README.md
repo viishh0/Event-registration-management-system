@@ -124,7 +124,7 @@ npm run dev
 ![Dashboard](screenshots/dashboard.png)
 
 ### ℹ️ About Page
-![About Page](screenshots/about.png.png)
+![About Page](screenshots/about.png)
 
 ---
 
